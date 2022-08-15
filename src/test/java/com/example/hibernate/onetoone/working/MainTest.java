@@ -1,4 +1,4 @@
-package com.example.hibernate.timestamp;
+package com.example.hibernate.onetoone.working;
 
 import org.hibernate.Session;
 import org.hibernate.SessionFactory;
